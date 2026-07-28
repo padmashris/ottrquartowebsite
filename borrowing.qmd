@@ -3,11 +3,6 @@ title: "Borrowing"
 output: html_document
 ---
 
-# Testing out borrowing
-
-```{r}
-ottrpal::set_knitr_image_path()
-```
 
 ## Borrowing chapter 2
 ```{r}
