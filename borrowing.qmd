@@ -1,0 +1,19 @@
+---
+title: "Borrowing"
+output: html_document
+---
+
+# Testing out borrowing
+
+```{r}
+ottrpal::set_knitr_image_path()
+```
+
+## Borrowing chapter 2
+```{r}
+cow::borrow_chapter(
+  doc_path = "02-chapter_of_course.Rmd",
+  repo_name = "ottrproject/OTTR_Template"
+)
+```
+
