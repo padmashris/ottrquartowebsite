@@ -19,6 +19,8 @@ website:
       href: style.qmd
     - text: 4. Git Actions
       href: git_actions.qmd
+    - text: 5. Borrowing
+      href: borrowing.qmd
     - text: More ottr docs
       href: https://www.ottrproject.org/
 

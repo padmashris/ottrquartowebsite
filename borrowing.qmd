@@ -1,0 +1,14 @@
+---
+title: "Borrowing"
+output: html_document
+---
+
+
+## Borrowing chapter 2
+```{r}
+cow::borrow_chapter(
+  doc_path = "02-chapter_of_course.Rmd",
+  repo_name = "ottrproject/OTTR_Template"
+)
+```
+
